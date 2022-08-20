@@ -16,6 +16,8 @@ tools/ionsymbols/ionsymbols
 build/
 cmake-build-debug/
 cmake-build-release/
+deploy/
+buildtools/
 install_manifest.txt
 .vs/
 CMakeSettings.json
